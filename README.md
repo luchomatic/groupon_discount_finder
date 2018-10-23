@@ -1,2 +1,2 @@
-# groupon_discount_finder
+# Groupon Discount Finder
 Busca códigos de descuento de ofertas de Groupon
